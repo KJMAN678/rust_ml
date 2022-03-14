@@ -1,0 +1,8 @@
+# ファイル作成
+cargo new ファイル名
+
+# コンパイル
+cargo build
+
+# ファイルの実行
+target/debug/ml_sample
